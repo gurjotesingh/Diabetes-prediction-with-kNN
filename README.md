@@ -1,2 +1,2 @@
 # Diabetes-prediction-with-kNN
-Diabetes prediction using k Nearest Neighbors Algirithm.
+In this project, I have tried to predict presence of Diabetes in a patient given features like Age, BMI, Glucose level etc. I have used k nearest neighbors algorithm to create the model. Data preprocessing included scaling of features.One feature was dropped because of large number of null values.  To find the optimal value of 'k', various values were tried out and the accuracy was plotted. Lastly, accuracy score and confusion amtrix was used to evaluate the performance of the model. An accuracy score of 81.818% was obtained. 
